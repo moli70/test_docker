@@ -1,0 +1,3 @@
+docker status
+docker images
+docker ps -a
